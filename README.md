@@ -28,7 +28,7 @@
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری]()
-- [خلاصه ارزیابی درس_متدولوژی]()
+- [خلاصه ارزیابی درس_متدولوژی](https://github.com/davoodnasri33/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/DN_SoftwareDevelopmentMethodologies_CheckList_AR_3991.docx)
 
 -----------------
 
