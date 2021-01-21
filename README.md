@@ -24,7 +24,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/davoodnasri33/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/DN_CV_CheckList_AR_3991.docx)
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/davoodnasri33/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/DN_GeneralSection_CheckList_AR_3991.docx)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری]()
