@@ -7,7 +7,7 @@
 + [github](https://github.com/davoodnasri33)
 + [resume](https://davoodnasri33.github.io/davoodResume/)
 + [SOP](https://davoodnasri33.github.io/sop/)
-+ [certificates](https://davoodnasri33.github.io/CERTIFICATES/)
++ [certificates](https://github.com/davoodnasri33/certificates)
 
 
 -------------------
