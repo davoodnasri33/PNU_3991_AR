@@ -5,7 +5,7 @@
 ---
 + [PNU_3991_AR](https://davoodnasri33.github.io/PNU_3991_AR/)
 + [github](https://github.com/davoodnasri33)
-+ [resume](https://davoodnasri33.github.io/davoodResume/)
++ [resume](https://davoodnasri33.github.io/resume/)
 + [SOP](https://davoodnasri33.github.io/sop/)
 + [certificates](https://github.com/davoodnasri33/certificates)
 
